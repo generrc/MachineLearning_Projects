@@ -1,0 +1,1 @@
+sudo docker run --rm -it --gpus all -v /home/generrc/ml-projects:/app -p 8888:8888 ml-docker
